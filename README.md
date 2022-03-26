@@ -1,4 +1,4 @@
-# Projects
+# Projects/Games
 All the games and project I have worked on!
 
 Color Guessing Game uses assigned numbers to colors
